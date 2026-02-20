@@ -57,4 +57,4 @@ Lower MAE and MSE values indicate better model accuracy.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/HarshalSawale4/Ice-Creame-Revenue-Predictor.git>
