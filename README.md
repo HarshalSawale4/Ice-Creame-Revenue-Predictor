@@ -1,70 +1,60 @@
-🍦 Ice Cream Revenue Prediction using Linear Regression
+# 🍦 Ice Cream Revenue Prediction using Linear Regression
 
-This project builds a Linear Regression model to predict ice cream revenue based on temperature data. It demonstrates how machine learning can be applied to real-world business forecasting.
+A Machine Learning project that predicts ice cream revenue based on temperature using a Linear Regression model. This project demonstrates how regression analysis can be applied to real-world business forecasting.
 
-📌 Project Overview
+---
 
-Ice cream sales are highly influenced by temperature. In this project, we analyze the relationship between temperature and revenue and build a predictive model to forecast sales.
+## 📌 Project Overview
 
-🚀 Features
+Ice cream sales are highly dependent on temperature. The objective of this project is to:
 
-Data preprocessing
+- Analyze the relationship between temperature and revenue
+- Build a Linear Regression model
+- Evaluate model performance
+- Generate business insights for sales forecasting
 
-Data visualization
+---
 
-Linear Regression model implementation
+## 🚀 Features
 
-Model evaluation using R², MAE, and MSE
+- Data preprocessing and cleaning  
+- Data visualization  
+- Linear Regression model implementation  
+- Model performance evaluation (R², MAE, MSE)  
+- Business interpretation of results  
 
-Business insights and interpretation
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Python
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
 
-NumPy
+---
 
-Pandas
+## 📊 Model Performance
 
-Matplotlib
-
-Scikit-learn
-
-📊 Model Performance
-
-R² Score – Measures how well the model explains the variance in revenue.
-
-MAE (Mean Absolute Error) – Shows the average prediction error.
-
-MSE (Mean Squared Error) – Penalizes larger errors and evaluates overall performance.
+- **R² Score** – Explains how well the model fits the data  
+- **MAE (Mean Absolute Error)** – Average difference between predicted and actual values  
+- **MSE (Mean Squared Error)** – Measures overall prediction error  
 
 Lower MAE and MSE values indicate better model accuracy.
 
-📈 Results
+---
 
-Strong positive relationship between temperature and revenue.
+## 📈 Results
 
-High R² score indicating good predictive capability.
+- Strong positive correlation between temperature and revenue  
+- High R² score indicating strong predictive performance  
+- Model can be used for forecasting summer sales  
 
-Useful for forecasting sales during summer or warmer seasons.
+---
 
-▶️ How to Run
+## ▶️ How to Run the Project
 
-Clone the repository
-
-git clone <your-repo-link>
-
-Navigate to the project folder
-
-cd <your-project-folder>
-
-Install required libraries
-
-pip install -r requirements.txt
-
-Run the script
-
-python main.py
-🎯 Conclusion
-
-This project highlights the practical application of regression analysis in business forecasting and demonstrates how data-driven decisions can improve sales planning.
+### 1️⃣ Clone the Repository
+```bash
+git clone <your-repository-link>
